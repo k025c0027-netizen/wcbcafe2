@@ -170,14 +170,13 @@ img {
       font-size: 2rem;
     }
   
-  }
 
-  /* HOME */
-.cover-home {
-    background-image: url(../images/cover-home-l.webp);
-  }
+     /* HOME */
+    .cover-home {
+        background-image: url(../images/cover-home-l.webp);
+        }
   
-  .about {
+    .about {
     margin: 4rem auto 0;
   }
   /* NEWS */
@@ -222,7 +221,14 @@ img {
 .post-date {
     font-size: .875rem;
 }
-
+.post-thumbnail {
+    border-radius: 16px;
+    margin-bottom: 1.5rem;
+}
+.post p {
+    margin-bottom: 1.5rem;
+    line-height: 2;
+}
   /* フッター */
   .page-footer {
     background-image: url(../images/footer-l.webp);
@@ -233,3 +239,4 @@ img {
     padding-left: 2.5rem;
   }
   
+}
