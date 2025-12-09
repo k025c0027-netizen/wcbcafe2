@@ -58,9 +58,7 @@ img{
     padding: .75rem 1.5rem;
     transition: .5s;
 }
-.btn:hover{
-    scale: 1.2;
-}
+
 
 .btn:hover{
     background-color: #0090aa;
