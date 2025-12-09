@@ -229,6 +229,10 @@ img{
         line-height: 1;
         margin-bottom: 1rem;
     }
+    /*MENU*/
+    .cover-menu{
+        background-image: url(../images/cover-menu-s.webp);
+    }
 
     /* ヘッダーカバー画像 */
     .sub-cover{
