@@ -62,7 +62,7 @@ img{
 
 .btn:hover{
     background-color: #0090aa;
-    rotate: -180deg;
+    rotate: 180deg;
 }
 
 /*ヘッダー
